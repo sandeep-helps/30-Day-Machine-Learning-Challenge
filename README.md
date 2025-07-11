@@ -61,3 +61,39 @@ I'll be posting daily on [LinkedIn](https://www.linkedin.com/in/sandeep-sharma-b
 > “The best way to learn Machine Learning is by doing it.”  
 > — Keep Building. Keep Sharing. Keep Growing.
 
+
+📁 Folder Structure:
+30-Day-Machine-Learning-Challenge/
+│
+├── README.md
+├── Day01_Titanic/
+│   ├── titanic_model.ipynb
+│   ├── dataset.csv
+│   └── result.png
+│
+├── Day02_Iris/
+│   ├── iris_model.ipynb
+│   ├── iris.csv
+│   └── output.jpg
+│
+├── Day03_Preprocessing/
+│   ├── preprocessing.ipynb
+│   └── sample_data.csv
+│
+├── Day04_...
+│
+└── requirements.txt
+
+
+
+
+📦 Optional: requirements.txt
+
+
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+jupyter
+
