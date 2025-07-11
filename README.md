@@ -8,8 +8,8 @@ Welcome to my **30 Days Machine Learning Challenge**!
 In this repository, I share my daily progress, projects, and learnings on the journey to becoming a better Machine Learning practitioner.
 
 ## 📅 Challenge Duration:
-**Start Date:** [Add your start date]  
-**End Date:** [Add your end date]
+**Start Date:** [10/07/2025]  
+**End Date:** [10/08/2025]
 
 ---
 
@@ -47,14 +47,14 @@ In this repository, I share my daily progress, projects, and learnings on the jo
 
 ## 📸 Daily LinkedIn Posts
 
-I'll be posting daily on [LinkedIn](https://www.linkedin.com/in/sandeep-sharma-01/) using the hashtag `#30DaysMLChallenge` and tagging `@CodSoft` when applicable.
+I'll be posting daily on [LinkedIn](https://www.linkedin.com/in/sandeep-sharma-b1a91b29a/) using the hashtag `#30DaysMLChallenge` and tagging `@CodSoft` when applicable.
 
 ---
 
 ## 🔗 Connect with Me
-- 📧 Email: [your email]
-- 💼 LinkedIn: [your LinkedIn]
-- 🧑‍💻 Portfolio: [optional]
+- 📧 Email: sandeeps.help@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/sandeep-sharma-b1a91b29a/
+- 🧑‍💻 Portfolio: https://sandeeps.netlify.app/
 
 ---
 
